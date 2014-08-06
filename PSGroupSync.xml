@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Settings>
+	<GroupSyncEntry>  <!-- Multiple entries allowed --> 
+		<LocalDomainController></LocalDomainController>
+		<RemoteDomainController></RemoteDomainController>
+		<LocalMSExchangeConnURI></LocalMSExchangeConnURI>
+		<LocalSyncedGroupsOU></LocalSyncedGroupsOU>
+		<RemoteGroupToSync></RemoteGroupToSync> <!-- Multiple entries allowed -->
+	</GroupSyncEntry>
+</Settings>
